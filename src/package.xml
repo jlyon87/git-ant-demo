@@ -5,5 +5,20 @@
         <members>MathHelperTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Service_Console</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Customer Support</members>
+        <name>Profile</name>
+    </types>
     <version>44.0</version>
 </Package>
