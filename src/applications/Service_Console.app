@@ -23,7 +23,6 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Contact</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Service_Console_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
             <tab>standard-Account</tab>
