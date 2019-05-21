@@ -16,6 +16,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Customer_Support</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Case-Customer Support</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Customer Support</members>
         <name>Profile</name>
