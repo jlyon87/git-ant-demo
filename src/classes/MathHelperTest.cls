@@ -28,7 +28,7 @@ private class MathHelperTest {
 
 		System.assertEquals(expected, quotient, a + ' / ' + b + ' = ' + expected);
 	}
-}
+
 	static TestMethod void subtract_givenAandB_shouldGetDifference() {
 		Integer a = 1;
 		Integer b = 1;
